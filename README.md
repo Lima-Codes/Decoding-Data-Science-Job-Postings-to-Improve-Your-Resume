@@ -6,3 +6,4 @@ This liveProject uses Python 3.7, and it's recommend to use the [Anaconda Python
 
 # Data
 The data is contained within the data folder in a zip file.  Unzip the file to find a directory containing job posting HTML files.  Be sure to check for duplicate job postings!
+# Decoding-Data-Science-Job-Postings-to-Improve-Your-Resume

@@ -8,4 +8,4 @@ pip==20.0.1
 jupyter_core==4.6.1
 wordcloud==1.6.0
 beautifulsoup4==4.8.2
-lxml==4.4.2
+lxml==4.6.2
